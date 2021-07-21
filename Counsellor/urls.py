@@ -23,3 +23,5 @@ urlpatterns = [
     path('',include('frus.urls')),
     
 ]
+
+# if __name__=''

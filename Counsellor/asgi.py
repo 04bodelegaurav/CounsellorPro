@@ -24,3 +24,4 @@ application = ProtocolTypeRouter({
         )
     ),
 })
+# if __name__=''
